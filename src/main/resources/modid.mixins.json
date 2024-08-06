@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.ashimc.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"CoordMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

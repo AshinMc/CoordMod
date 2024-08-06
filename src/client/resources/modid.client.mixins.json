@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.ashinmc.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"CoordMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
